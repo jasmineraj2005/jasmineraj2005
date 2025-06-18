@@ -1,4 +1,4 @@
-# Hi there, I'm Jasmine Raj 👋
+# Hi, I'm Jasmine Raj 👋
 
 🇮🇳 🇦🇪 🇦🇺 | Bachelor's in Computer Science (AI) @ Swinburne University
 
