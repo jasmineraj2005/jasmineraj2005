@@ -13,7 +13,7 @@ I'm building a billion-dollar startup while juggling my studies. I’m passionat
 ### 💻 Languages & Tools
 - **Programming Languages**: JavaScript, Python, HTML/CSS, C
 - **Frameworks**: Next.js, Tailwind CSS
-- **Tools**: Git, Vercel, Figma, Shopify, Livekit, Google Cloud
+- **Tools**: Git, Vercel, Figma, Shopify, Google Cloud
 
 ### 🌱 Interests
 - 🍵 **Matcha**
