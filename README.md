@@ -1,24 +1,41 @@
 # Hi, I'm Jasmine Raj 👋
 
-🇮🇳 🇦🇪 🇦🇺 | Bachelor's in Computer Science (AI) @ Swinburne University
+🇮🇳 🇦🇪 🇦🇺 | AI Engineer & Forward Deployed Engineer | Bachelor of Computer Science (AI) @ Swinburne University
 
 ### 🚀 About Me
-I'm building a billion-dollar startup while juggling my studies. I’m passionate about MedTech, AI, and tech startups. Currently, I'm a **Student Fellow** (S25) at Startmate Winter and an active committee member at **MLAI**.
+I build AI automation systems and web platforms for clients across Australia and Hong Kong, working in healthcare, legal, accounting, real estate and marketing. I handle both the technical build and the client side, from scoping to shipping.
 
-### 🔭 Current Projects
-- **Bluey**: Modifying the **Unitree Go1 Robot Dog** to make STEM more inclusive for younger audiences.
-- **Nia (MedHack)**: Developed an **AI agent** for post-discharge patient care during a hackathon.
-- **Voice_Ai**: Building a **cold-calling agent** for sales automation.
+Co-founder of **13Labs** and **Pesto**, and co-founder of **Umeed**, a youth-led charity supporting education and crisis relief. Formerly **Head of Community at MLAI** and a **Startmate Student Fellow** (Winter 2025).
+
+### 🛠️ What I Build
+- **AI content engines**: SEO/AEO automation pipelines and dashboards for professional services firms
+- **Web platforms**: client websites, admin tools, portals and API integrations
+- **AI agents**: voice and workflow automation for sales and operations
+
+### 🔭 Projects
+- **Pawsitive Learning**: Modifying the **Unitree Go1 robot dog** with Monash Automation to make STEM more inclusive for younger audiences.
+- **Nia (MedHack)**: An **AI agent** for post-discharge patient care.
+- **Voice_Ai**: A **cold-calling agent** for sales automation.
+
+### 🏆 Recognition
+- 🥇 1st place, **Heidi Health x Google Cloud Hackathon**
+- 🥉 3rd place, **UNIHACK**
+- 🎖️ **Diana Award** recipient
+- 🌱 **Startmate Student Fellow**, Winter 2025
 
 ### 💻 Languages & Tools
-- **Programming Languages**: JavaScript, Python, HTML/CSS, C
-- **Frameworks**: Next.js, Tailwind CSS
-- **Tools**: Git, Vercel, Figma, Shopify, Google Cloud
+- **Languages**: Python, JavaScript/TypeScript, HTML/CSS, C
+- **Frameworks**: Next.js, React, Tailwind CSS
+- **AI**: LLM APIs, AI agents, automation pipelines
+- **Tools**: Git, Vercel, Figma, Shopify, Google Cloud, Notion
 
 ### 🌱 Interests
-- 🍵 **Matcha**
-- 🚀 **Tech & Startups**
-- ✈️ **Travelling**
-- 😎 **AR/VR**
+- 🤖 **AI agents & automation**
+- 🎮 **Unreal Engine & interactive 3D**
+- 🎨 **Web & studio design**
+- 🏸 **Badminton**
+- 🏘️ **Property & real estate**
+- 🚀 **Startups**
 
-
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/jasmine-raj-49000b21a)
