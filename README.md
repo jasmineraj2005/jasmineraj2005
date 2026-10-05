@@ -36,6 +36,3 @@ Co-founder of **13Labs** and **Pesto**, and co-founder of **Umeed**, a youth-led
 - 🏸 **Badminton**
 - 🏘️ **Property & real estate**
 - 🚀 **Startups**
-
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/jasmine-raj-49000b21a)
